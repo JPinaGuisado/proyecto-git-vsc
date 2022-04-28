@@ -1,0 +1,4 @@
+:double-button {
+  color: aliceblue;
+  content: attr();
+}
